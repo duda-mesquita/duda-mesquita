@@ -1,6 +1,6 @@
-# Olá, sou Duda Mesquita!
+# Olá, sou Duda Mesquita! 😄
 
-> Estudante e apaixonada por tecnologia e o mundo dos Devs
+> Estudante e apaixonada por tecnologia e o mundo dos Devs!
 > 
 <!--
 **duda-mesquita/duda-mesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
